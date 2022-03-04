@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing and blogging.
 - 🌱 I’m currently learning 11th
 - 💞️ I’m looking to collaborate on software and web developing.
-- 📫 How to reach me TYech5@gmail.com
+- 📫 How to reach me tyech5@gmail.com
 
 <!---
 roshan648/roshan648 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
